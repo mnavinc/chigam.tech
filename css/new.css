@@ -1,0 +1,12 @@
+.navbar-brand img{
+    min-width:140px
+}
+.menu_fixed{
+    background-color:#edebeb;
+}
+.menu_fixed .main-menu-item ul li a{
+    color:#333 !important
+}
+.banner_part:before, .banner_part:after{
+    display:none;
+}
